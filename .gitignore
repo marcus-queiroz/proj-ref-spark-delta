@@ -1,2 +1,4 @@
 .env
 src/project-02-databricks/
+poetry.lock
+pyproject.toml
