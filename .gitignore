@@ -1,4 +1,5 @@
 .env
 src/project-02-databricks/
+src/project-01-contoso/
 poetry.lock
 pyproject.toml
